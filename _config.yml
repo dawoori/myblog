@@ -110,26 +110,26 @@ author:
   avatar           : "/img/me.jpg"
   bio              : "Kookmin Univ."
   location         : "Seoul, Korea"
-  email            :
+  email            : "daul@kookmin.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:daul@kookmin.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://nalbam.com"
+      url: "https://dawoori.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/nalbam"
+      #url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/nalbam"
+      #url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nalbam"
+      url: "https://github.com/dawoori"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/nalbam"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
