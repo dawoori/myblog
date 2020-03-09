@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "dawoori"
-  avatar           : ""
+  avatar           : "/img/me.jpg"
   bio              : "Kookmin Univ."
   location         : "Seoul, Korea"
   email            :
